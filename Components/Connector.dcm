@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CON10_2X5_50mil
+D 10 pin connector double row 0.050"
+$ENDCMP
+#
+$CMP CON20_2X10_100mil
+D 20 pin connector double row 0.100"
+$ENDCMP
+#
+$CMP CON4_1X4_100mil
+D 4 pin connector simple row 0.100"
+$ENDCMP
+#
+#End Doc Library

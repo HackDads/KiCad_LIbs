@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54SFILMY
+D Schottky Diodes & Rectifiers 40V Automotive SS 300mA
+$ENDCMP
+#
+$CMP BZT52H-C5V1,115
+D Zener Diodes 375MW 5.1V
+$ENDCMP
+#
+$CMP MBR120VLSFT1G
+D Schottky Diodes & Rectifiers 1A 20V
+$ENDCMP
+#
+$CMP SS36-E3/57T
+D Schottky Diodes & Rectifiers 3.0 Amp 60 Volt 
+$ENDCMP
+#
+$CMP TVS_2
+D TVS Diode Arrays
+$ENDCMP
+#
+$CMP TVS_2_BIDIR
+D TVS Diode Arrays
+$ENDCMP
+#
+#End Doc Library

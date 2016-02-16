@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT25128VI-GT3
+D EEPROM 128K SPI Serial CMOS EEPROM
+$ENDCMP
+#
+$CMP CJ125_LQFP32
+D Bosch Lambda Probe Interface IC - CJ125 LQFP32
+$ENDCMP
+#
+$CMP CJ125_SOIC24
+D Bosch Lambda Probe Interface IC - CJ125 SOIC24
+$ENDCMP
+#
+$CMP FOD814ASD
+D MFSOP6, AC/DC Optocoupler, Vce 35V, CTR 20%
+K NPN AC DC Optocoupler
+$ENDCMP
+#
+$CMP L293DD
+D Motor / Motion / Ignition Controllers & Drivers Push-Pull 4-Channel
+$ENDCMP
+#
+$CMP LD1117S33CTR
+D LDO Voltage Regulators 3.3V 0.8A Positive
+$ENDCMP
+#
+$CMP LM321MF/NOPB
+D Operational Amplifiers - Op Amps LOW PWR SGL OP AMP
+$ENDCMP
+#
+$CMP LTV-354T
+D MFSOP6, AC/DC Optocoupler, Vce 35V, CTR 20%
+K NPN AC DC Optocoupler
+$ENDCMP
+#
+$CMP MCP16321
+D IC Voltage Regulator 1A DC/DC Switching
+$ENDCMP
+#
+$CMP MCP16322
+D IC Voltage Regulator 2A DC/DC Switching
+$ENDCMP
+#
+$CMP MK20DX128VLH7
+D Freescale K20 MCU 64 LQFP/QFN
+$ENDCMP
+#
+$CMP MK20DX32VFM5
+D Freescale K20 MCU - 32 QFN
+$ENDCMP
+#
+$CMP MK20DX32VLF5
+D Freescale K20 MCU - 48 LQFP/QFN
+F http://www.atmel.com/Images/doc2466.pdf
+$ENDCMP
+#
+$CMP MK22DX256VLF5
+D Freescale K22 MCU - 48 LQFP
+F http://www.atmel.com/Images/doc2466.pdf
+$ENDCMP
+#
+$CMP MKV30F128VFM10
+D Freescale K30 MCU - 32 QFN
+$ENDCMP
+#
+$CMP SN65HVD230D
+D SN65HVD230DR - IC 3.3V CAN TXRX 8-SOIC
+$ENDCMP
+#
+$CMP SN74LVC2T45DCT
+D SN75LVC2T45 - Dual Bus Transceiver 2Bit Non-Inv
+$ENDCMP
+#
+$CMP ULN2003F12
+D Gate Drivers 4 Darlington Array 500mA 50V High Volt
+$ENDCMP
+#
+$CMP WIFI_ESP07
+D ESP8266 WiFi Module ESP07
+$ENDCMP
+#
+$CMP WIFI_ESP12
+D ESP8266 WiFi Module ESP12
+$ENDCMP
+#
+#End Doc Library

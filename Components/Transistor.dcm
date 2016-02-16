@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BC817-40LT3G
+D Bipolar Transistors - BJT 500mA 50V NPN 
+$ENDCMP
+#
+$CMP NPN
+D Bipolar Transistors - BJT 500mA 50V NPN 
+$ENDCMP
+#
+#End Doc Library
